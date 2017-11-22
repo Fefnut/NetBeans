@@ -17,7 +17,10 @@ public class FFdebugTest {
      * dslkfjldskj
      * @param args
      */
-    
+    /**
+     * Modif par thomas
+     * @param args 
+     */
     
     public static void main(String[] args) {
         FFdebugTest debug = new FFdebugTest(new int[3]);
